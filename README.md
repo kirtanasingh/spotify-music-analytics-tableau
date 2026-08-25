@@ -53,7 +53,7 @@ The dashboard can be used to explore questions such as:
 
 | File                           | Description                                                                |
 | ------------------------------ | -------------------------------------------------------------------------- |
-| `Spotify_Music_Analytics.twbx` | Tableau packaged workbook containing the dashboard and workbook components |
+| `spotify_music_analytics.twbx` | Tableau packaged workbook containing the dashboard and workbook components |
 | `dashboard.png`                | Preview image of the completed dashboard                                   |
 
 ## 🚀 How to Use
